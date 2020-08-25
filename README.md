@@ -1,5 +1,7 @@
 # R_Healthcare
-projects carried out for the Data Science certificate
+Project carried out for the "Data Science with R" certificate. 
+The repository contains the R script and the report submitted for evaluation. 
+Below there is the project's description.
 
 
 DESCRIPTION
