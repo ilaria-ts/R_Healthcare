@@ -13,12 +13,15 @@ Domain: Healthcare
 Dataset Description:
 
 Age 	Age of the patient discharged
+
 Female 	A binary variable that indicates if the patient is female
+
 Los	Length of stay in days
-Race 	
-Race of the patient (specified numerically)
+
+Race 	Race of the patient (specified numerically)
 
 Totchg	Hospital discharge costs
+
 Aprdrg	All Patient Refined Diagnosis Related Groups
 
 --------------------------------------
